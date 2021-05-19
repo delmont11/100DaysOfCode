@@ -1,9 +1,9 @@
-#100DaysOfCode - Diario
+# 100DaysOfCode - Diario
 
-##Día 0: 19 de mayo 2021
+## Día 0: 19 de mayo 2021
 
-###Pogreso de hoy:
+### Pogreso de hoy:
 
-###Pensamiento:
+### Pensamiento:
 
-###Enlace al trabajo:
+### Enlace al trabajo:
