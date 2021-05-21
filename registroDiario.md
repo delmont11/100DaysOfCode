@@ -6,4 +6,13 @@
 
 **Pensamiento:** Buscar otros ejemplos para darle un estilo personal.
 
+## Día 1 de #100DaysOfCode 
+
+**Progreso:** Terminé mi portfolio con #html y #css, para la certificación de 
+@freecodecampES
+
+**Pensamiento:** Más adelante darle estilo propio e interacción con #javascript 
+
+**Pomodoros:** 6.
+
 
