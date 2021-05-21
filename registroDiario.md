@@ -6,7 +6,7 @@
 
 **Pensamiento:** Buscar otros ejemplos para darle un estilo personal.
 
-## Día 1 de #100DaysOfCode 
+## Día 1 de #100DaysOfCode - 20 de mayo de 2021
 
 **Progreso:** Terminé mi portfolio con #html y #css, para la certificación de 
 @freecodecampES
