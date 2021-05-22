@@ -15,4 +15,16 @@
 
 **Pomodoros:** 6.
 
+## Día 2 de #100DaysOfCode 
+
+**Progreso:** estructura de datos y manipulación de array con #JavaScript.
+
+**Pomodoros:** 3 Reloj
+
+## Día 3 de #100DaysOfCode 
+
+**Progreso:** Manipulación de array con shift() y unshift(). Ámbito local y global de funciones en #javascript.  
+
+**Pomodores: 3**
+
 
