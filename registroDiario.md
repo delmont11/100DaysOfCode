@@ -27,4 +27,15 @@
 
 **Pomodores: 3**
 
+## Día 4 de #100DaysOfCode 
+
+**Progreso:** Lógica condicional con IF, ELSE IF, ELSE. Operadores de comparación. Declaración de SWITCH. 
+
+**Pomodoros:** 3
+
+## Día 5 y 6 de #100DaysOfCode 
+
+**Progreso:** Objetos, acceso a sus propiedades, añadir nuevas propiedades, objetos anidados, iteración, recursión, operadores ternarios.
+
+**Pomodoros:** 7
 
