@@ -39,3 +39,9 @@
 
 **Pomodoros:** 7
 
+## Día 7 y 8 de #100DaysOfCode 
+
+**Progreso:** Repaso de todo los visto hasta aquí + destructuring, enhacement, .filter, .find, .reduce y Ferch API.
+
+**Pomodoros:** 6
+
