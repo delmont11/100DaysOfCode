@@ -45,3 +45,14 @@
 
 **Pomodoros:** 6
 
+## Día 9 de #100DaysOfCode 
+
+**Porgreso:** Manipulación del DOM con #javascript: crear, clonar, eliminar elementos.
+
+**Pomodoros:** 4
+
+## Día 10 de #100DaysOfCode 
+
+**Progreso:** inalizando estilos con #CSS en la página de registro del sitio de conferencias.
+ **Pomodoros:** 5
+
