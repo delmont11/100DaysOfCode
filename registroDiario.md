@@ -56,3 +56,13 @@
 **Progreso:** inalizando estilos con #CSS en la página de registro del sitio de conferencias.
  **Pomodoros:** 5
 
+## Día 11 de #100DaysOfCode 
+
+**Progreso:** Cotización con #javascript en la página de registro. Introducción con JQuery.
+**Pomodoros:** 5
+
+## Día 12 de #100DaysOfCode 
+
+**Progreso:** Uso de pluggins de #jQuery en el sitio de conferencias: Lettering, countdown, animateNumber. 
+**Pomodoros:** 6
+
